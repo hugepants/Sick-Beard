@@ -4,7 +4,7 @@
 
 > Tolstyak was the first to develop FDH in March 2012. Several PRs were made to midgetspy/Sick-Beard but they were never merged so development moved to this fork.
 
-> The FDH code was later implemented in [mr-orange/Sick-Beard](https://github.com/coach0742/Sick-Beard) and [SickRage](https://github.com/SickRage/SickRage) where it is still in use today.
+> The FDH code was later implemented in [mr-orange/Sick-Beard](https://github.com/coach0742/Sick-Beard), [SickChill](https://github.com/SickChill/SickChill) and [Medusa](https://github.com/pymedusa/Medusa).
 
 > To ensure correct operation, Sick Beard forks with FDH should be used with the [nzbToMedia](https://github.com/clinton-hall/nzbToMedia) post-processing scripts. Read its [Wiki](https://github.com/clinton-hall/nzbToMedia/wiki) for more information.
 
